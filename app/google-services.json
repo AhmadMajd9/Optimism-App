@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "937748012665",
+    "firebase_url": "https://projectlab2-a5e52.firebaseio.com",
+    "project_id": "projectlab2-a5e52",
+    "storage_bucket": "projectlab2-a5e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937748012665:android:5b9ca5700299c244b47ea8",
+        "android_client_info": {
+          "package_name": "com.example.finalprojectlab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6VVlXZew33CtbJMBkzKrh1LhGOBeyoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937748012665:android:df4ac897ea096b63b47ea8",
+        "android_client_info": {
+          "package_name": "com.example.projectlab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6VVlXZew33CtbJMBkzKrh1LhGOBeyoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937748012665:android:206553217523f059b47ea8",
+        "android_client_info": {
+          "package_name": "com.example.pushnev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937748012665-d4cantn4isste8t8pp6gan8c9h7048ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushnev",
+            "certificate_hash": "f6af33ae8fc1088edb30e5337f1ca6ab7065d58e"
+          }
+        },
+        {
+          "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6VVlXZew33CtbJMBkzKrh1LhGOBeyoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937748012665:android:3e285fd883c6608ab47ea8",
+        "android_client_info": {
+          "package_name": "id.droidindonesia.pushnotificationsederhana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937748012665-b7rovkfd0pi2jp1u1icblo342qv0hn66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.droidindonesia.pushnotificationsederhana",
+            "certificate_hash": "f6af33ae8fc1088edb30e5337f1ca6ab7065d58e"
+          }
+        },
+        {
+          "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6VVlXZew33CtbJMBkzKrh1LhGOBeyoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937748012665-5nvc4thm9sld09q4ksvjsa9v9jqs4f2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
